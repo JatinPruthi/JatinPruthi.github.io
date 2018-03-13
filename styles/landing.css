@@ -68,7 +68,7 @@ body {
 .content {
     position: relative;
     padding: 24px;
-    width: 300px;
+    width: 600px;
     color: rgba(255, 255, 255, .8);
     display: -webkit-flex;
     display: -ms-flexbox;
