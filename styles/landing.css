@@ -126,7 +126,7 @@ body {
     }
 }
 .content p {
-    width: 256px;
+    width: 512px;
     text-align: center;
     margin: 16px auto
 }
